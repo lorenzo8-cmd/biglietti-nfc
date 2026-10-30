@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Rossi;Mario;;;
-FN:Mario Rossi
-ORG:Studio Demo NFC
-TITLE:Product Designer
-TEL;TYPE=CELL:+393331234567
-EMAIL;TYPE=INTERNET:mario@example.com
-URL:https://example.com
+N:Alessandrini;Andrea;;;
+FN:Andrea Alessandrini
+ORG:Marcherent
+TITLE:CEO
+TEL;TYPE=CELL:+393927531508
+EMAIL;TYPE=INTERNET:
+URL:marcherent.eu
 END:VCARD
