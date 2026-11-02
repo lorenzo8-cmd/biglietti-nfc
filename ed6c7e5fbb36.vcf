@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Rossi;Giulia;;;
-FN:Giulia Rossi
+N:Bianchi;Giulia;;;
+FN:Giulia Bianchi
 ORG:Studio Forma
 TITLE:Architetta
-TEL;TYPE=CELL:+39 333 1234567
+TEL;TYPE=CELL:+39 333 1234566
 EMAIL;TYPE=INTERNET,WORK:giulia@example.com
 URL:https://example.com
 ADR;TYPE=WORK:;;Via Esempio 12;Milano;MI;20100;Italia
