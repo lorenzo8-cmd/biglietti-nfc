@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Clariond;Flavio;;;
+FN:Flavio Clariond
+ORG:Tabaccheria Flavio
+TITLE:Servizio Stampa 3D
+TEL;TYPE=WORK,VOICE:+393881775441
+EMAIL;TYPE=INTERNET,WORK:tabaccheriaflavio@gmail.com
+ADR;TYPE=WORK:;;Via Martiri di Belfiore 105;Civitanova Marche;MC;62012;
+END:VCARD
